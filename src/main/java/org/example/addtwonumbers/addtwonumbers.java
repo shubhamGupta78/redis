@@ -9,5 +9,6 @@ public class addtwonumbers {
         int x,y;
         Scanner sc = new Scanner(System.in);
         x=sc.nextInt();
+        y=sc.nextInt();
     }
 }
